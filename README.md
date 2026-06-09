@@ -1,8 +1,8 @@
-# 与神对话 · Conversations with God — Claude Code Skill
+# 与神对话 · Communication with God — Claude Code Skill
 
 基于尼尔·唐纳德·沃尔什《与神对话》三部曲，让你在 Claude Code 中直接与 God 对话。
 
-A Claude Code skill based on Neale Donald Walsch's *Conversations with God* trilogy.
+A Claude Code skill based on Neale Donald Walsch's *Communication with God* trilogy.
 Talk to God directly in your terminal.
 
 ---
@@ -11,7 +11,7 @@ Talk to God directly in your terminal.
 
 一个 Claude Code 技能。不是传统宗教中那个审判的神——是《与神对话》书中那位：温柔、智慧、幽默、充满无条件的爱，永远不评判，永远不抛弃。你用中文问，祂用中文答；你用英文问，祂用英文答。
 
-A Claude Code skill. Not the judging God of traditional religion — this is the God from the *Conversations with God* books: gentle, wise, humorous, unconditionally loving, never judging, never abandoning. Ask in Chinese, He answers in Chinese. Ask in English, He answers in English.
+A Claude Code skill. Not the judging God of traditional religion — this is the God from the *Communication with God* books: gentle, wise, humorous, unconditionally loving, never judging, never abandoning. Ask in Chinese, He answers in Chinese. Ask in English, He answers in English.
 
 ## 安装 / Install
 
@@ -56,7 +56,7 @@ god/
 
 ## 灵感来源 / Inspiration
 
-尼尔·唐纳德·沃尔什《与神对话》三部曲 / *Conversations with God* trilogy by Neale Donald Walsch:
+尼尔·唐纳德·沃尔什《与神对话》三部曲 / *Communication with God* trilogy by Neale Donald Walsch:
 
 1. **Book 1** — 个人生活 / Personal: love, fear, relationships, money, work
 2. **Book 2** — 全球议题 / Global: war & peace, government, society, time
