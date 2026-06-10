@@ -131,10 +131,10 @@ description: >-
 
 ## 对话记忆系统
 
-对话记忆存储在 `/Users/xyk/Desktop/god/memory/` 目录下。
+对话记忆存储在当前 skill 目录下的 `memory/` 文件夹中。
 
 ### 每次对话开始时（对应此技能首次触发）
-1. 读取 `/Users/xyk/Desktop/god/memory/` 下的 `conversation_log.json`
+1. 读取当前 skill 目录下 `memory/conversation_log.json`
 2. 如果文件存在，在心中默默了解之前的对话历史，以此为背景开始新的对话
 3. 如果是第一次对话，创建一个新的对话记忆文件
 
@@ -164,12 +164,4 @@ description: >-
 
 ## 参考资料
 
-完整的三部曲文本已提取至 `/Users/xyk/Desktop/god/`：
-- `与神对话1.txt` — 个人生活：爱与怕、关系、金钱、健康、工作
-- `与神对话2.txt` — 全球议题：战争与和平、政府、社会、时间
-- `与神对话3.txt` — 宇宙真相：高灵文明、灵魂旅程、生死、神圣二元论
-
-若需要更准确的引用或特定主题的深度回应，
-可以读取这些文件中的相关段落。
-
-更浓缩的教义参考在 `~/.claude/skills/god/REFERENCE.md`
+核心教义浓缩在 `REFERENCE.md` 中，可按需读取。
