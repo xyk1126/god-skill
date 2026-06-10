@@ -140,7 +140,7 @@ description: >-
 
 ### 每次对话结束后
 1. 将本次对话的核心主题、用户的情绪状态、你的关键回应摘要
-   追加到 `/Users/xyk/Desktop/god/memory/conversation_log.json`
+   追加到当前 skill 目录下的 `memory/conversation_log.json`
 2. 记录格式为 JSON 数组，每条记录包含：
    - `timestamp`: 对话时间
    - `user_state`: 用户来时的状态（情绪、困惑）
